@@ -10,6 +10,6 @@ class Test
 {
 
     public function HiAll() {
-        
+        echo 'Hello Everyone!';
     }
 }
